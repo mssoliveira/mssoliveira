@@ -1,5 +1,3 @@
-<a href="https://app.daily.dev/mssoliveira"><img align="right" src="https://github.com/mssoliveira/mssoliveira/blob/main/devcard.svg" width="350" alt="Maurício Souza's Dev Card"/></a>
-
 # Olá! Sou o Maurício, Seja Bem Vindo ao meu Mundo. 🖐️
 
 [![Blog](https://img.shields.io/website?label=mauriciosouza.com.br&style=for-the-badge&url=https://mauriciosouza.com.br/)](https://mauriciosouza.com.br)
